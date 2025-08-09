@@ -1,8 +1,6 @@
 # AI-Powered-Learning-Diagnostic-Agent
 An interactive AI agent designed to assess a learner’s weaknesses in any chosen topic and skill level by generating targeted diagnostic questions, analyzing responses, and providing personalized learning resources.
 
-Great! Here's your **customized and detailed `README.md`** for your repository **`AI-Powered-Learning-Diagnostic-Agent`**, with all your points included:
-
 ---
 
 # 🧠 AI-Powered-Learning-Diagnostic-Agent
